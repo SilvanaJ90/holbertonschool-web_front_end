@@ -1,3 +1,3 @@
 
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Front-end-logo-color%402x.png/600px-Front-end-logo-color%402x.png?20161015162846)
+![image](https://static.platzi.com/media/user_upload/og-db8e523f-e0c6-4f70-a569-9bef692cc882.jpg)
