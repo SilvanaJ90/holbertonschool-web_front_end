@@ -31,6 +31,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
     Techium will be the name of the company we will use across our webpages.
 
 ## Sitemap of the project
-![imagen 2](https://github.com/SilvanaJ90/holbertonschool-web_front_end/blob/main/img/imag2.png)
+![imagen 2](https://github.com/SilvanaJ90/holbertonschool-web_front_end/blob/main/html_advanced/img/imag2.png)
 
-![imagen](https://github.com/SilvanaJ90/holbertonschool-web_front_end/blob/main/img/imag-proyect.png)
+![imagen](https://github.com/SilvanaJ90/holbertonschool-web_front_end/blob/main/html_advanced/img/imag-proyect.png)
