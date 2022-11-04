@@ -1,6 +1,6 @@
 # Advanced CSS
 
-![image](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/ce6718f1b55e6c1580c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221104T193907Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f605a55777f0a744bd2624cd39eae147a710afc0be9ca236837d0834bb58f362)
+![image](https://github.com/SilvanaJ90/holbertonschool-web_front_end/blob/main/CSS_advanced/img/css.jpg)
 
 ## Learning Objectives
 
