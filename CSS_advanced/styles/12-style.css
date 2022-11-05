@@ -52,7 +52,7 @@ body {
    font-weight: var(--font-weight-bold);
    font-size: var(--font-size-xx-large);
    margin: var(--section-title-margin);
-   text-decoration-color: var(--section-title-color);
+   color: var(--section-title-color);
 }
 
 .visually-hidden {
