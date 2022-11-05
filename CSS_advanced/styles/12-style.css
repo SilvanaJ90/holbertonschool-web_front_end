@@ -20,7 +20,7 @@
    --section-header-align: center;
    --section-tagline-transform: uppercase;
    --section-title-margin: 0;
-   --section-title-color: color-black;
+   --section-title-color: (--color-black);
 }
 
 html {
@@ -48,6 +48,7 @@ body {
 .section-tagline {
    color: var(--color-primary);
    font-family: var(--font-family-title);
+   text-transform: var(--section-tagline-transform);
    font-size: var(--font-size-xx-large);
    font-weight: var(--font-weight-bold);
    margin: var(--section-title-margin);
