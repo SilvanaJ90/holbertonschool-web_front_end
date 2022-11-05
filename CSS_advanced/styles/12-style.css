@@ -48,7 +48,6 @@ body {
 .section-tagline {
    color: var(--color-primary);
    font-family: var(--font-family-title);
-   text-transform: var(--section-tagline-transform);
    font-size: var(--font-size-xx-large);
    font-weight: var(--font-weight-bold);
    margin: var(--section-title-margin);
@@ -69,4 +68,3 @@ h1, h2, h3, h4, h5, h6 {
    font-weight: var(--font-weight-bold);
 }
 
-sect
