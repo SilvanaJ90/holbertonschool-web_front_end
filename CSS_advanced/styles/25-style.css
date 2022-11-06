@@ -409,7 +409,7 @@ h1, h2, h3, h4, h5, h6 {
    direction: var(--button-hover-text-decoration);
 }
 
-.button :hover {
+.button:hover {
    color: var(--button-hover-color);
    direction: var(--button-hover-text-decoration);
 }
