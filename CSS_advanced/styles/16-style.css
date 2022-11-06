@@ -215,7 +215,7 @@ body {
    color: var(--section-title-color);
 }
 
-.contenedor {
+.container {
    width: 960px;
    margin-left: auto;
    margin-right: auto;
