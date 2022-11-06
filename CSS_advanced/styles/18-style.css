@@ -185,6 +185,7 @@ template {
    --section-footer-padding: 3rem 0 0;
    --section-footer-align: center;
    --footer-padding: 5rem 0 1rem;
+   --nav-item-font-family: var(--font-family-title);
 
 }
 
@@ -284,6 +285,10 @@ h1, h2, h3, h4, h5, h6 {
    padding: 0%;
    font-style: none;
    text-align: center;
+}
+
+.nav-item {
+   font-family: var(nav-item-font-family);
 }
 .footer {
    padding: var(--footer-padding);
