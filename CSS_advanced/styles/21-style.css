@@ -354,5 +354,5 @@ h1, h2, h3, h4, h5, h6 {
 
  [classes^="col-"] {
    float: left;
-   padding: 0.05rem;
+   padding: 0.5rem;
  } 
